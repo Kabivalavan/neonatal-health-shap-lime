@@ -1,0 +1,2 @@
+gestational_age_weeks,birth_weight_kg,apgar_1min,apgar_5min,heart_rate_bpm,respiratory_rate_bpm,spo2_percent,temperature_c,bilirubin_mg_dl,feeding_difficulty,sex,delivery_mode,oxygen_support
+37.7,3.67,7,8,155,50,99,36.9,4.7,No,Female,Cesarean,None
